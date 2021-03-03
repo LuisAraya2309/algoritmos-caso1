@@ -1,4 +1,4 @@
-# algoritmos-caso1
+# algoritmos-caso2
 Este trabajo fue realizado por:
 Luis Carlos Araya Mata-2020205005
 Guillermo Coto Álvarez-2016134133
